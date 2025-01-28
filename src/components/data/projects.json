@@ -1,0 +1,43 @@
+[
+  {
+    "key": 1,
+    "title": "DevConnector",
+    "description": [
+      "A full-stack social networking platform for professionals:",
+      "Allows users to create profiles with work experience, social links, and GitHub repositories.",
+      "Enables interaction via posts, likes, and comments."
+    ],
+    "demo": "https://devconnector-community-1-frontend.onrender.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "ShopSphere",
+    "description": [
+      "A dynamic e-commerce platform with separate admin and user dashboards:",
+      "Admins manage products, categories, shipping, and orders.",
+      "Users enjoy seamless shopping with filters, cart management, and order tracking."
+    ],
+    "demo": "https://shopsphere-1-client.onrender.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "Bloggify",
+    "description": [
+      "A user-friendly blogging platform:",
+      "Users can create, read, comment, and engage with blogs for an interactive experience."
+    ],
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 4,
+    "title": "Gaddi-Garage",
+    "description": [
+      "An online platform connecting garage owners and users:",
+      "Garage owners can showcase services and experiences to build trust.",
+      "Users can browse profiles and select services for automotive repair and maintenance."
+    ],
+    "source": "https://www.github.com"
+  }
+]
