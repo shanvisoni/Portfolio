@@ -1,7 +1,6 @@
 
 import { useRef, useEffect } from "react";
 import Typed from "typed.js";
-import { Link } from "react-router-dom";
 import hero from './data/hero.json'
 import pdf from '../pdf/resume.pdf'
 
