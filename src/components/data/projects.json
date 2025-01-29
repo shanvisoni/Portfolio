@@ -7,7 +7,7 @@
       "Allows users to create profiles with work experience, social links, and GitHub repositories.",
       "Enables interaction via posts, likes, and comments."
     ],
-    "demo": "https://devconnector-community-1-frontend.onrender.com",
+    "_comment": "https://devconnector-community-1-frontend.onrender.com",
     "source": "https://www.github.com"
   },
   {
@@ -18,7 +18,7 @@
       "Admins manage products, categories, shipping, and orders.",
       "Users enjoy seamless shopping with filters, cart management, and order tracking."
     ],
-    "demo": "https://shopsphere-1-client.onrender.com",
+    "_comment": "https://shopsphere-1-client.onrender.com",
     "source": "https://www.github.com"
   },
   {
