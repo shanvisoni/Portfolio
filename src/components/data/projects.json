@@ -1,0 +1,45 @@
+[
+  {
+    "key": 1,
+    "title": "DevConnector",
+    "description": [
+      "A full-stack social networking platform for professionals:",
+      "Allows users to create profiles with work experience, social links, and GitHub repositories.",
+      "Enables interaction via posts, likes, and comments."
+    ],
+    "_comment": "https://devconnector-community-1-frontend.onrender.com",
+    "source": "https://github.com/shanvisoni/DevConnector-Community"
+  },
+  {
+    "key": 2,
+    "title": "ShopSphere",
+    "description": [
+      "A dynamic e-commerce platform with separate admin and user dashboards:",
+      "Admins manage products, categories, shipping, and orders.",
+      "Users enjoy seamless shopping with filters, cart management, and order tracking."
+    ],
+    "_comment": "https://shopsphere-1-client.onrender.com",
+    "source": "https://github.com/shanvisoni/shopSphere"
+  },
+  {
+    "key": 3,
+    "title": "Bloggify",
+    "description": [
+      "A user-friendly blogging platform:",
+      "Users can create, read, comment, and engage with blogs for an interactive experience."
+    ],
+    "source": "https://github.com/shanvisoni/Blogify"
+  },
+  {
+    "key": 4,
+    "title": "Task Organizer",
+    "description": [
+      "A simple and efficient task management application:",
+      "Users can add, edit, and delete tasks with descriptions.",
+      "Task status tracking (incomplete/completed) for better organization.",
+      "Responsive design for seamless usage on all devices."
+
+    ],
+    "source": "https://todo-list-ae523.web.app/"
+  }
+]
