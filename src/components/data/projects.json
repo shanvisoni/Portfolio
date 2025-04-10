@@ -8,7 +8,7 @@
       "Enables interaction via posts, likes, and comments."
     ],
     "_comment": "https://devconnector-community-1-frontend.onrender.com",
-    "source": "https://github.com/shanvisoni/DevConnector-Community"
+    "source": "https://devconnector-community-1-frontend.onrender.com"
   },
   {
     "key": 2,
@@ -18,17 +18,8 @@
       "Admins manage products, categories, shipping, and orders.",
       "Users enjoy seamless shopping with filters, cart management, and order tracking."
     ],
-    "_comment": "https://shopsphere-1-client.onrender.com",
-    "source": "https://github.com/shanvisoni/shopSphere"
-  },
-  {
-    "key": 3,
-    "title": "Bloggify",
-    "description": [
-      "A user-friendly blogging platform:",
-      "Users can create, read, comment, and engage with blogs for an interactive experience."
-    ],
-    "source": "https://github.com/shanvisoni/Blogify"
+    "_comment": "https://shopsphere-suwf.onrender.com/",
+    "source": "https://shopsphere-suwf.onrender.com/"
   },
   {
     "key": 4,
