@@ -50,7 +50,11 @@ const Home = () => {
       <div className="right" data-aos="fade-up-left" data-aos-duration="1200">
         <div className="img">
 
-        <img src="/images/shanvi.jpg" alt="Profile" />
+        {/* <img src="/images/shanvi.jpg" alt="Profile" /> */}
+
+
+        <img src={shanviImage} alt="Profile" />
+
 
           
         </div>
