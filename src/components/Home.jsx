@@ -50,7 +50,7 @@ const Home = () => {
       <div className="right" data-aos="fade-up-left" data-aos-duration="1200">
         <div className="img">
 
-        <img src="/images/Shanvi.jpg" alt="Profile" />
+        <img src="/images/shanvi.jpg" alt="Profile" />
 
           
         </div>
@@ -75,79 +75,4 @@ export default Home;
 
 
 
-
-
-
-// .home {
-//   display: flex;
-//   justify-content: space-between;
-//   align-items: center;
-//   background-color: black;
-//   padding: 50px 0;
-// }
-
-// .home .left {
-//   background-color: #1a1a1a;
-//   width: 600px;
-//   text-align: center;
-//   padding: 40px;
-//   border-radius: 15px;
-//   border: 2px solid yellow;
-//   box-shadow: 0px 10px 30px rgba(255, 215, 0, 0.3);
-//   animation: fadeInUp 1.5s ease-in-out;
-// }
-
-// .home .left h1 {
-//   font-size: 2rem;
-//   font-weight: bold;
-//   color: yellow;
-// }
-
-// .home .left .introduction {
-//   margin-top: 20px;
-//   font-size: 1.1rem;
-//   color: #ccc;
-//   line-height: 1.8;
-// }
-
-// .home .right .img {
-//   display: flex;
-//   justify-content: center;
-//   align-items: center;
-//   animation: pulse 3s infinite;
-// }
-
-// .home .right .img img {
-//   height: 280px;
-//   width: 280px;
-//   border: 5px solid yellow;
-//   border-radius: 50%;
-//   transition: transform 0.5s ease, box-shadow 0.5s ease;
-// }
-
-// .home .right .img img:hover {
-//   transform: scale(1.1);
-//   box-shadow: 0px 15px 30px rgba(255, 215, 0, 0.5);
-// }
-
-// /* Animations */
-// @keyframes fadeInUp {
-//   from {
-//     opacity: 0;
-//     transform: translateY(20px);
-//   }
-//   to {
-//     opacity: 1;
-//     transform: translateY(0);
-//   }
-// }
-
-// @keyframes pulse {
-//   0%, 100% {
-//     box-shadow: 0 0 30px yellow, 0 0 50px rgba(255, 215, 0, 0.5);
-//   }
-//   50% {
-//     box-shadow: 0 0 60px yellow, 0 0 80px rgba(255, 215, 0, 0.7);
-//   }
-// }
 
