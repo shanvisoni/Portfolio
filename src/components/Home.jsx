@@ -4,7 +4,7 @@ import Typed from "typed.js";
 // import pdf from '../pdf/resume.pdf'
 // import { Link } from "react-router-dom";
 import shanviImage from "../assets/Shanvi.jpg";
-
+import resume from "../assets/resume.pdf"; 
 
 const Home = () => {
   const typedRef = useRef(null);
@@ -13,7 +13,7 @@ const Home = () => {
     const options = {
       strings: [
         "Hi, I'm Shanvi Soni",
-        "I'm a Software Developer",
+        "I'm a MERN STACK Developer",
         "Building scalable web applications",
         "Eager to create impactful solutions",
       ],
@@ -39,13 +39,15 @@ const Home = () => {
           enjoy building web applications that are functional, user-friendly, and scalable.
           Let’s connect and create impactful projects together!
         </p>
-        {/* <a
-          href={pdf}
-          download="Resume.pdf"
+        {/* Download Resume Button */}
+        <a
+          href={resume}
+          download="Shanvi_Soni_Resume.pdf"
           className="btn btn-outline-warning mt-3"
         >
           Download Resume
-        </a> */}
+        </a>
+
       </div>
       <div className="right" data-aos="fade-up-left" data-aos-duration="1200">
         <div className="img">
@@ -66,10 +68,6 @@ const Home = () => {
 export default Home;
 
 
-
-
-
-{/* <img src={`../assets/shanvi.jpg`} alt="hero" />  */}
 
 
 
