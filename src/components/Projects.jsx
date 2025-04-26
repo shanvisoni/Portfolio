@@ -43,7 +43,7 @@ const Projects = () => {
                     </StyledLink>
                   )}
                   <StyledLink to={data.source} className="btn btn-warning">
-                    Code
+                    Demo
                   </StyledLink>
                 </div>
               </div>
