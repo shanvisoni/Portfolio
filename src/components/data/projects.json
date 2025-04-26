@@ -32,5 +32,18 @@
 
     ],
     "source": "https://todo-list-ae523.web.app/"
+  },
+  {
+    "key": 5,
+    "title": "SkillSwap",
+    "description": [
+      "A peer-to-peer skill exchange platform:",
+      "Users offer and learn skills (e.g., \"Teach coding, learn guitar\") without paying for courses.",
+      "Real-time chat feature powered by Socket.io for instant communication.",
+      "Smart search functionality by skill, profession, and location to find the best matches.",
+      "Built-in rating system activated after meaningful conversations (10+ messages) to ensure genuine feedback."
+
+    ],
+    "source": "https://skill-swap-livid.vercel.app/"
   }
 ]
